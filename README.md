@@ -6,7 +6,7 @@
 
 - O conio.h nao esta incluso na biblioteca do C no linux
 
-## A instalacao e feita usando o terminal apenas copiado os comando e colando no terminal.
+## A instalacao e feita usando o terminal apenas copiado os comando e colando no bash.
 NO bash:
 
 ### $ git clone https://github.com/zaisaackksan/Conio.c-p-linux
