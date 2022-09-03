@@ -10,7 +10,7 @@
 NO bash:
 
 ### $ git clone https://github.com/zaisaackksan/Conio.c-p-linux
-### $ cd Linux_conio.h
+### $ cd Conio.c-p-linux
 ### $ sudo mv conio.h /usr/include
 
 
