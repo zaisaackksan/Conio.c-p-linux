@@ -9,7 +9,7 @@
 ## A instalacao e feita usando o termina apenas copiado os comando e colando a linha de comando.
 NO bash:
 
-# $ git clone https://github.com/zaisaackksan/Biblioteca-Conio.h.git
+# $ git clone https://github.com/zaisaackksan/Conio.c-p-linux
 # $ cd Linux_conio.h
 # $ sudo mv conio.h /usr/include
 
