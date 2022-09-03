@@ -1,24 +1,22 @@
 # Linux <conio.h>
 ## _"conio.h" para Linux_
-- Conio para estudo de faculdade que inclui alguns necessarias apara alguns comandos.
+- A Biblioteca Conio.h para estudo de faculdade onde nao esta incluseo no repositorio do C linux.
 
-### Se Possu compilador GCC e ja esta usando o compilador e necessite dessa biblioteca:
+### Se Possui um compilador GCC e necessita dessa biblioteca:
 
-- O conio.h esta incluso na biblioteca do C pelo no linux
+- O conio.h nao esta incluso na biblioteca do C no linux
 
-## A instalacao e feita usando o termina apenas copiado os comando e colando a linha de comando.
+## A instalacao e feita usando o terminal apenas copiado os comando e colando a linha de comando.
 NO bash:
 
-# $ git clone https://github.com/zaisaackksan/Conio.c-p-linux
-# $ cd Linux_conio.h
-# $ sudo mv conio.h /usr/include
+### $ git clone https://github.com/zaisaackksan/Conio.c-p-linux
+### $ cd Linux_conio.h
+### $ sudo mv conio.h /usr/include
 
 
-## A Arquivo conio.h deve esta diretorio usr em include
+## A Arquivo conio.h vai esta movido no diretorio usr/include
 
 ## Fazer o teste dessa biblioteca:
-# Com seu compilado gcc ja instalado na maquina:
-# $ gcc test_bibl_conio.c -o test_bibl_conio.o
-# $ ./test_bibl_conio.o
-
-
+### Com seu compilado gcc ja instalado na maquina:
+### $ gcc test_bibl_conio.c -o test_bibl_conio.o
+### $ ./test_bibl_conio.o
