@@ -1,6 +1,6 @@
 # Linux <conio.h>
 ## _"conio.h" para Linux_
-- A Biblioteca Conio.h para estudo de faculdade onde nao esta incluseo no repositorio do C linux.
+- A Biblioteca Conio.h para estudo de faculdade onde nao esta incluso no repositorio do C linux.
 
 ### Se Possui um compilador GCC e necessita dessa biblioteca:
 
